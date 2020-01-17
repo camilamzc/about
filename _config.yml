@@ -9,16 +9,16 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: Camila Marianne Zuñiga Cárcamo
+  pic: milla
+  position: MSc Geology Student
   social:
-    - title: twitter
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/camilamzc/
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://www.facebook.com/camilamzc
+  #  - title: stack-overflow
+  #    url: #
 #
 # - name: Larry Parker
 #   pic: 2
