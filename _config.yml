@@ -9,25 +9,25 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 
-- name: #
-  pic: #
-  position: #Lead Marketer
-  social:
-    - title: #twitter
-      url: #
-    - title: #facebook
-      url: #
-    - title: #linkedin
-      url: #
-people:
-- name: Camila Marianne Zuñiga Cárcamo
-  pic: 'img/about/milla.jpg'
-  position: MSc Geology Student
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/camilamzc/
-    - title: facebook
-      url: https://www.facebook.com/camilamzc
+# - name: #
+#   pic: #
+#   position: #Lead Marketer
+#   social:
+#     - title: #twitter
+#       url: #
+#     - title: #facebook
+#       url: #
+#     - title: #linkedin
+#       url: #
+# people:
+# - name: Camila Marianne Zuñiga Cárcamo
+#   pic: milla
+#   position: MSc Geology Student
+#   social:
+#     - title: linkedin
+#       url: https://www.linkedin.com/in/camilamzc/
+#     - title: facebook
+#       url: https://www.facebook.com/camilamzc
   #  - title: stack-overflow
   #    url: #
 #
@@ -55,21 +55,23 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
+  #- title: twitter
+  #  url: http://twitter.com/jekyllrb
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+    url: https://www.facebook.com/camilamzc
+  #- title: stack-overflow
+  #  url: http://stackoverflow.com/questions/tagged/jekyll
+  #- title: bitbucket
+  #  url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/camilamzc
+  - title: instagram
+    url: https://www.instagram.com/mila_mzc/
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+#address:
+#  - line: 3481 Melrose Place
+#  - line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown
